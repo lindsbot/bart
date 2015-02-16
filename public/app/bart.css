@@ -1,0 +1,15 @@
+.station {
+  width: 800px;
+  height: 120px;
+  border: 1px solid green;
+  border-bottom: 0; 
+}
+
+.title {
+  width: 100px;
+  margin: auto;
+}
+
+svg {
+  margin: 0 0 0 0;
+}

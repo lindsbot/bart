@@ -1,0 +1,10 @@
+{
+  "name": "bart",
+  "description": "fetching bart departure times",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.7.2",
+    "coffee-script": "~1.8.0"
+  }
+}
